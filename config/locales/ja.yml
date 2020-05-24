@@ -257,6 +257,7 @@ ja:
       team_you_belong_to: '所属しているチーム'
       posted_articles: '投稿した記事一覧'
       you_became_the_leader_of_the_next_team: 'あなたが下記チームのリーダーになりました'
+      no_authority: '権限がありません'
     button:
       submit: '投稿'
       edit: '編集'

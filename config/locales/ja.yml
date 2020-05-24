@@ -251,10 +251,12 @@ ja:
       invite_team_member: 'チームメンバー招待'
       team_leader: 'チームリーダー'
       leader: 'リーダー'
+      change_leader: 'リーダーを変更しました'
       invitation_placeholder: '招待したい人のメールアドレスを入力してください'
       edit_profile: 'プロフィールを編集'
       team_you_belong_to: '所属しているチーム'
       posted_articles: '投稿した記事一覧'
+      you_became_the_leader_of_the_next_team: 'あなたが下記チームのリーダーになりました'
       no_authority: '権限がありません'
     button:
       submit: '投稿'
@@ -262,6 +264,7 @@ ja:
       delete: '削除'
       create: '作成'
       invite: '招待'
+      change_authority: '権限移動'
     top:
       line1: 'このアプリケーションは、チームごと、議題ごとに別れて'
       line2: '特定のイシュー（議題）をメンバーで見やすく共有するためのアプリケーションです'
